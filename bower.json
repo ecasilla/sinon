@@ -1,0 +1,27 @@
+{
+  "name": "sinon",
+  "version": "0.0.0",
+  "authors": [
+    "Ernie Casilla <ecasilla@icloud.com>"
+  ],
+  "moduleType": [
+    "es6",
+    "globals"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jasmine": "~2.3.4",
+    "jquery": "~2.1.4"
+  },
+"devDependencies": {
+  "sinon": "http://sinonjs.org/releases/sinon-1.9.0.js",
+  "jasmine":"~2.3.x"
+ }
+}
